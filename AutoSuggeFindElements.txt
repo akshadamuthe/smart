@@ -1,5 +1,3 @@
 //li[@class='sbct']   ----->getting 11 autosugg we want 10 only
 
 //li[@class='sbct' and not(@id='YMXe')]   ----->getting 10 auto suggessions only by puttind and condition
-
-id="shJ2Vb
